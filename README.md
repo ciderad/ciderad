@@ -8,7 +8,7 @@ I build security controls, analyze compliance frameworks, assess risk, and bridg
 
 `Python` `Linux` `NIST CSF` `ISO 27001` `Risk Assessment` `Policy Mapping` `IAM` `Wireshark` `SQL`
 
-### Best projects
+### Projects That Showcase My Skillset
 
 | Project | What it proves |
 | :--- | :--- |
