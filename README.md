@@ -12,6 +12,6 @@ I build security controls, analyze compliance frameworks, assess risk, and bridg
 
 | Project | What it proves |
 | :--- | :--- |
-| [policy-framework-mapping](https://github.com/ciderad/ciderad) | Cross-walked organizational policies against NIST CSF 2.0 controls |
+| [policy-framework-mapping](https://github.com/ciderad/policy-framework-mapping) | Cross-walked organizational policies against NIST CSF 2.0 controls |
 | [risk-assessment-matrix](https://github.com/ciderad/risk-assessment-matrix) | Modeled quantitative risk scenarios and evaluated mitigation strategies |
 | [compliance-audit-script](https://github.com/ciderad/ciderad) | Automated configuration checks using Python to spot compliance drift |
